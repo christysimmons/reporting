@@ -1,2 +1,4 @@
 # reporting
-Team reporting feature
+This is an intro. 
+
+Rewriting team reporting feature in React
